@@ -1,4 +1,3 @@
-//Dabelea Ioana-Viviana - 313CB
 #include "functions.h"
 
 void *InitThr(size_t d, int N){
