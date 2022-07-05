@@ -1,4 +1,3 @@
-Tema 2-SD
 Fisierele Coada.c Coada.h Stiva.h şi Stiva.c conţin algoritmi de baza pentru lucrul cu stive si cozi, implementati cu ajutorul listelor simplu înlănţuite.
 Fisierul main.c
  -> citesc argumentele din linia de comanda si deschid cele 2 fisiere
