@@ -1,4 +1,3 @@
-//Dabelea Ioana-Viviana - 313CB
 #include "functions.h"
 
 CelQ* AlocCelQ(void *el, size_t d){
