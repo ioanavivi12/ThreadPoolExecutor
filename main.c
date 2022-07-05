@@ -1,4 +1,3 @@
-//Dabelea Ioana-Viviana - 313CB
 #include "functions.h"
 
 int main(int argc, char *input[])
